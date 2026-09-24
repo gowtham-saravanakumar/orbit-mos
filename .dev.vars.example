@@ -1,0 +1,4 @@
+# Optional. Copy to .dev.vars for a local server and use your own key.
+# Never share, commit, or include .dev.vars in a source archive.
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-5-mini
